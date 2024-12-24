@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+body{
+    transition: background-color 1s ease;
+}
 .container{
     width: 80%;
     margin: auto;
