@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    
+}
+
+.content{
+    border: 10px violet solid;
+    display: flex;
+    padding: 20px;
+}
+
+#image{
+    border: red solid;
+}
+
+#text{
+    font-family: "Montserrat", serif;
+    border: 5px rgb(241, 193, 193) solid;
+    padding: 20px;
+    margin-left: 10px ;  
+}
+
+#text h1{
+    text-align: center;
+}
+
+#themechange img{
+    width: 50%;
+    margin: 30%;
+}
